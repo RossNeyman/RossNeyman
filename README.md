@@ -1,4 +1,4 @@
-# Hey there, I'm [Your Name]! 👋
+# Hey there, I'm Ross! 👋
 
 I’m a **Computer Science/Mathematics student** at **CUNY – College of Staten Island**. My passion lies in solving complex problems, building interactive web applications, and exploring the intersections of math, computer science, and data. 
 I currently work at Polygon Health on **Patient Connect**, a resource hub for those with medical conditions such as multiple myeloma, juvenile myositis, and heart failure.
